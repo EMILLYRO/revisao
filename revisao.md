@@ -8,4 +8,7 @@ aonde "embala"(prepara pra enviar para o servidor online) as mudanças feitas no
 são ramificações.
 ## o que é merge?
 união de duas branches.
+## o que clone?
+aonde se clona (copia)  o repositório para o computador.
+
 
