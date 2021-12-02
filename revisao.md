@@ -10,5 +10,7 @@ são ramificações.
 união de duas branches.
 ## o que clone?
 aonde se clona (copia)  o repositório para o computador.
+## o que é pull?
+Puxar o arquivo.
 
 
