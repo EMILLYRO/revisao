@@ -12,5 +12,7 @@ união de duas branches.
 aonde se clona (copia)  o repositório para o computador.
 ## o que é pull?
 Puxar o arquivo.
+## o que é push?
+empurrar o arquivo.
 
 
