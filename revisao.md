@@ -14,11 +14,6 @@ aonde se clona (copia)  o repositório para o computador.
 Puxar o arquivo.
 ## o que é push?
 empurrar o arquivo.
-## o que é VCS?
-é um software de controle de versão.
-## qual é as vantagens de ultilizar os VCS?
-seguranças 
-organização
-etc ...
+
 
 
